@@ -1,4 +1,5 @@
 # Birth and Death
+Yashan oswal -KU2407U448
 
 ## Overview
 This project provides a Python-based simulation and analysis of birth and death processes. These stochastic processes are fundamental in understanding various phenomena in fields such as biology, epidemiology, and population dynamics. The program implements basic models, visualizations, and simulations to study the behavior of such systems over time.
