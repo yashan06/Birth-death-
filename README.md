@@ -1,7 +1,7 @@
 # Birth and Death
 Yashan oswal -KU2407U448
 Jenish jani-KU2407U410
-Chit brahmbhatt-KU2407U394
+Chit brahmbhatt-KU2407U394.
 jimil-KU2407U867.
 
 
